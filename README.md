@@ -10,11 +10,11 @@ The code is written and tested with Matlab 2017a. Modifications might be necessa
 ### Installing 
 
 ```
-git clone https://github.com/vohuy93/UODOptim.git
+git clone https://github.com/vohuy93/OSD.git
 ```
 
 ```
-cd UODOptim
+cd OSD
 ```
 
 ### Dependencies
@@ -36,7 +36,7 @@ cd rp; matlab -r "setup"
 The main script for testing the code on VOC_6x2 is scripts/run_UOD.m. In a terminal, from the UODOptim folder, run 
 
 ```
-cd scripts; matlab -r "run_UOD"
+cd scripts; matlab -r "run_OSD"
 ```
 
 ## Citations
