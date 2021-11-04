@@ -10,7 +10,7 @@ The code is written and tested with Matlab 2017a. Modifications might be necessa
 ### Installing 
 
 ```
-git clone https://github.com/vohuy93/OSD.git
+git clone https://github.com/huyvvo/OSD.git
 ```
 
 ```
